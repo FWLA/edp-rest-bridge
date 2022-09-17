@@ -8,3 +8,6 @@ spring:
     generate-ddl: false
     hibernate:
       ddl-auto: none
+  security:
+    user:
+      password: Start123
